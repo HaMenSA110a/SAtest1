@@ -151,7 +151,7 @@ _.inRange(-3, -2, -6) : true
 
 test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 0 filtered out (35ms)
 ```
-### TDD: 
+### TDD: after
 * 先寫測試再寫程式
 * 說明: The opposite of _.before; this method creates a function that invokes func once it's called n or more times.
 * 測試:[test3.js](https://github.com/HaMenSA110a/SAtest1/blob/main/HW/HW1/module_test/test3.js)
